@@ -2,6 +2,7 @@ print("Hello World")
 print("Absaitov Dilshod")
 print("Haminjonov Abdurashid")
 print('Abdumalik Yul...')
+print('Samatov Jahongir')
 
 
 # Pycharm + GitHub
@@ -32,5 +33,3 @@ git push -u origin main
 
 
 
-
-print("Samatov Jahongir")
