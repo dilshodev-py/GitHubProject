@@ -4,6 +4,7 @@ print("Botir")
 print("STOP I'M HERE, Muhammadamin")
 print("Abdurashid Abdumannopov")
 print("kamol")
+print('Abdumalik Yul...')
 print("Islombek Hoshimov")
 print("Haminjonov Abdurashid")
 print("Sulton Sadullayevv")
@@ -13,6 +14,8 @@ print("Sitora Kodirkulova")
 # Abdumalik Yul...
 
 print("joylar soni chegaralangan!!")
+
+print("Shoshilmaymiz hammaga joy yetadi !")
 
 """
 git config --global user.name "dilshodev-py"
