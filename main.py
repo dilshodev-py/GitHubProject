@@ -2,12 +2,17 @@ print("Hello World")
 print("Absaitov Dilshod")
 print("Botir")
 print("STOP I'M HERE, Muhammadamin")
+print("Islombek Hoshimov")
 print("Abdurashid Abdumannopov")
 print("kamol")
+print('Abdumalik Yul...')
 print("Islombek Hoshimov")
 print("Haminjonov Abdurashid")
 print("Sulton Sadullayevv")
 print("Mirjalol")
+print("Haminjonov Abdurashid")
+print("Sulton Sadullayevv")
+print("Sitora Kodirkulova")
 
 # Pycharm + GitHub
 # Abdumalik Yul...
