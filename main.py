@@ -3,6 +3,7 @@ print("Absaitov Dilshod")
 print("Botir")
 print("Abdurashid Abdumannopov")
 print("kamol")
+print("Mirjalol")
 
 
 # Pycharm + GitHub
@@ -21,3 +22,5 @@ git branch -M master
 git remote add origin https://github.com/dilshodev-py/GitHubProject.git
 git push -u origin main
 """
+
+print("Bekmirzayev Muhammadamin")
