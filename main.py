@@ -3,7 +3,7 @@ print("Botir")
 print("Asilbek")
 print("STOP I'M HERE, Muhammadamin")
 print("Islombek Hoshimov")
-print("Abdurashid Abdumannopov")
+print("STOP I'M HERE, Muhammadamin")
 print("kamol")
 print('Abdumalik Yul...')
 print("Islombek Hoshimov")
@@ -18,12 +18,15 @@ print("Mavlonov Abduraxmon")
 print("Haminjonov Abdurashid")
 print("Sulton Sadullayevv")
 print("Sitora Kodirkulova")
+print("zulfizar")
 print("Haminjonov Abdurashid")
 print("Sulton Sadullayevv")
 print("Samatov Jahongir")
 
 # Pycharm + GitHub
-#
+# Abdumalik Yul...
+
+print("joylar soni chegaralangan!!")
 
 """
 git config --global user.name "dilshodev-py"
