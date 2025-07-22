@@ -26,7 +26,7 @@ print("Abdurhmon-Juraev")
 # Abdumalik Yul...
 
 print("joylar soni chegaralangan!!")
-
+#________________
 
 print("group 2 nima gap !!")
 
