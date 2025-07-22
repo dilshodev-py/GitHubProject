@@ -3,7 +3,7 @@ print("Absaitov Dilshod")
 print("Choriyev Pirnazar.")
 
 # Pycharm + GitHub
-#
+# Abdumalik Yul...
 
 """
 git config --global user.name "dilshodev-py"
