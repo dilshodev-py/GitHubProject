@@ -9,7 +9,7 @@ print("Absaitov Dilshod")
 git config --global user.name "dilshodev-py"
 git config --global user.email "absaitovdev@gmail.com"
 """
-
+print("HEllo")
 """
 git init
 git add .
