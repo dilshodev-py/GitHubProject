@@ -6,6 +6,8 @@ print("Haminjonov Abdurashid")
 # Pycharm + GitHub
 # Abdumalik Yul...
 
+print("joylar soni chegaralangan!!")
+
 """
 git config --global user.name "dilshodev-py"
 git config --global user.email "absaitovdev@gmail.com"
