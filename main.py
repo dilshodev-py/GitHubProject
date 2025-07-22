@@ -1,9 +1,10 @@
 print("Hello World")
 print("Botir")
 print("Asilbek")
+print("Abdurashid Abdumannopov")
 print("STOP I'M HERE, Muhammadamin")
 print("Islombek Hoshimov")
-print("Abdurashid Abdumannopov")
+print("STOP I'M HERE, Muhammadamin")
 print("kamol")
 print('Abdumalik Yul...')
 print("Islombek Hoshimov")
@@ -18,9 +19,11 @@ print("Mavlonov Abduraxmon")
 print("Haminjonov Abdurashid")
 print("Sulton Sadullayevv")
 print("Sitora Kodirkulova")
-print("Bunyod I'am here")
+print("zulfizar")
 # Pycharm + GitHub
-#
+# Abdumalik Yul...
+
+print("joylar soni chegaralangan!!")
 
 """
 git config --global user.name "dilshodev-py"
@@ -35,5 +38,3 @@ git branch -M master
 git remote add origin https://github.com/dilshodev-py/GitHubProject.git
 git push -u origin main
 """
-
-print("Bekmirzayev Muhammadamin")
