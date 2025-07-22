@@ -4,6 +4,15 @@ print("Botir")
 print("STOP I'M HERE, Muhammadamin")
 print("Abdurashid Abdumannopov")
 print("kamol")
+print('Abdumalik Yul...')
+
+
+
+
+
+
+
+
 print("Islombek Hoshimov")
 print("Haminjonov Abdurashid")
 print("Sulton Sadullayevv")
