@@ -7,13 +7,6 @@ print("kamol")
 
 print("Haminjonov Abdurashid")
 print("Sulton Sadullayevv")
-
-
-
-
-
-
-
 print("Islombek Hoshimov")
 
 # Pycharm + GitHub
