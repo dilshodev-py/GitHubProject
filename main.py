@@ -4,7 +4,7 @@ print("Absaitov Dilshod")
 
 # Pycharm + GitHub
 #
-
+print("tezroq yozish kk joylar soni cheklangan")
 """
 git config --global user.name "dilshodev-py"
 git config --global user.email "absaitovdev@gmail.com"
