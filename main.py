@@ -4,6 +4,7 @@ print("Botir")
 print("STOP I'M HERE, Muhammadamin")
 print("Abdurashid Abdumannopov")
 print("kamol")
+print("Mirjalol")
 
 
 
