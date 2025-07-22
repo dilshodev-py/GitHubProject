@@ -25,6 +25,10 @@ print("Bunyod I'am here")
 # Abdumalik Yul...
 
 print("joylar soni chegaralangan!!")
+#________________
+
+print("Group 1 va 3 ni chopamizmi")
+#_________
 
 
 print("group 2 nima gap !!")
