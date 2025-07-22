@@ -5,6 +5,14 @@ print("Abdurashid Abdumannopov")
 print("kamol")
 
 
+
+
+
+
+
+
+print("Islombek Hoshimov")
+
 # Pycharm + GitHub
 #
 
