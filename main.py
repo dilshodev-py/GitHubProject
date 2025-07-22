@@ -13,6 +13,8 @@ print("Sulton Sadullayevv")
 
 print("joylar soni chegaralangan!!")
 
+print("Shoshilmaymiz hammaga joy yetadi !")
+
 """
 git config --global user.name "dilshodev-py"
 git config --global user.email "absaitovdev@gmail.com"
