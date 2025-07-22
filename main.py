@@ -12,6 +12,9 @@ print("Choriyev Pirnazar")
 print("Choriyev pirnazar")
 print("Haminjonov Abdurashid")
 print("Sulton Sadullayevv")
+print("Mirjalol")
+print("Haminjonov Abdurashid")
+print("Sulton Sadullayevv")
 print("Mavlonov Abduraxmon")
 print("Haminjonov Abdurashid")
 print("Sulton Sadullayevv")
@@ -21,8 +24,6 @@ print("Sitora Kodirkulova")
 # Abdumalik Yul...
 
 print("joylar soni chegaralangan!!")
-
-print("Shoshilmaymiz hammaga joy yetadi !")
 
 """
 git config --global user.name "dilshodev-py"
