@@ -17,7 +17,7 @@ print("Sulton Sadullayevv")
 print("Sitora Kodirkulova")
 print("Haminjonov Abdurashid")
 print("Sulton Sadullayevv")
-print("Samatov Jahongirr")
+print("Samatov Jahongir")
 
 # Pycharm + GitHub
 #
