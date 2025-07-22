@@ -4,6 +4,7 @@ print("Asilbek")
 print("Abdurashid Abdumannopov")
 print("kamol")
 print("Choriyev Pirnazar")
+print("Pirnazar")
 print("Islombek Hoshimov")
 print("Bekmirzayev Muhammadamin")
 
