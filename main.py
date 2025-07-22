@@ -1,10 +1,11 @@
 print("Hello World")
 print("Absaitov Dilshod")
+print("Haminjonov Abdurashid")
 
 
 # Pycharm + GitHub
-#
-print("tezroq yozish kk joylar soni cheklangan")
+# Abdumalik Yul...
+
 """
 git config --global user.name "dilshodev-py"
 git config --global user.email "absaitovdev@gmail.com"
