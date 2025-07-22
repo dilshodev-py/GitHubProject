@@ -4,9 +4,16 @@ print("Botir")
 print("Abdurashid Abdumannopov")
 print("STOP I'M HERE, Muhammadamin")
 print("kamol")
+print('Abdumalik Yul...')
+
+
+
+
+
+
+
+
 print("Islombek Hoshimov")
-print("Haminjonov Abdurashid")
-print("Sulton Sadullayevv")
 
 # Pycharm + GitHub
 # Abdumalik Yul...
