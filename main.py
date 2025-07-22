@@ -10,7 +10,7 @@ print("Islombek Hoshimov")
 print("Haminjonov Abdurashid")
 print("Sulton Sadullayevv")
 print("Sitora Kodirkulova")
-
+print("zulfizar")
 # Pycharm + GitHub
 # Abdumalik Yul...
 
