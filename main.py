@@ -1,8 +1,9 @@
 print("Hello World")
+print("Absaitov Dilshod")
 
 
 # Pycharm + GitHub
-#
+# Abdumalik Y.
 
 """
 git config --global user.name "dilshodev-py"
