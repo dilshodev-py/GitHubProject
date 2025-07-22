@@ -1,7 +1,7 @@
 print("Hello World")
 print("Absaitov Dilshod")
 print("Haminjonov Abdurashid")
-
+print("Sulton Sadullayev")
 
 # Pycharm + GitHub
 # Abdumalik Yul...
