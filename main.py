@@ -1,10 +1,18 @@
 print("Hello World")
-print("Absaitov Dilshod")
 print("Botir")
+print("Asilbek")
 print("Abdurashid Abdumannopov")
 print("kamol")
 print("Mirjalol")
 
+
+
+
+
+
+
+
+print("Islombek Hoshimov")
 
 # Pycharm + GitHub
 #
