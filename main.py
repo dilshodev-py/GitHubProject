@@ -11,6 +11,9 @@ print("Choriyev Pirnazar")
 print("Choriyev pirnazar")
 print("Haminjonov Abdurashid")
 print("Sulton Sadullayevv")
+print("Mavlonov Abduraxmon")
+print("Haminjonov Abdurashid")
+print("Sulton Sadullayevv")
 print("Sitora Kodirkulova")
 
 # Pycharm + GitHub
