@@ -1,12 +1,13 @@
 print("Hello World")
-print("Asilbek")
 print("Botir")
 print("Asilbek")
+print("Abdurashid Abdumannopov")
+print("kamol")
+
+
 # Pycharm + GitHub
 #
 
-
-print("Asilbek")
 """
 git config --global user.name "dilshodev-py"
 git config --global user.email "absaitovdev@gmail.com"
