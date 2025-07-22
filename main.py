@@ -1,6 +1,6 @@
 print("Hello World")
 print("Absaitov Dilshod")
-print("Sulton")
+print("Sulton S")
 
 # Pycharm + GitHub
 #
