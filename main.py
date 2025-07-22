@@ -1,4 +1,10 @@
 print("Hello World")
+print("Botir")
+print("Asilbek")
+print("Abdurashid Abdumannopov")
+print("kamol")
+print("Mirjalol")
+print("Islombek Hoshimov")
 print("Absaitov Dilshod")
 print("Haminjonov Abdurashid")
 print('Abdumalik Yul...')
@@ -21,15 +27,3 @@ git branch -M master
 git remote add origin https://github.com/dilshodev-py/GitHubProject.git
 git push -u origin main
 """
-
-
-
-
-
-
-
-
-
-
-
-
