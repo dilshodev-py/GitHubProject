@@ -9,7 +9,7 @@ print('Abdumalik Yul...')
 print("Islombek Hoshimov")
 print("Haminjonov Abdurashid")
 print("Sulton Sadullayevv")
-print("Samatov Jahongirr")
+print("Samatov Jahongir")
 
 # Pycharm + GitHub
 # Abdumalik Yul...
