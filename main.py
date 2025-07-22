@@ -26,6 +26,10 @@ print("Bunyod I'am here")
 
 print("joylar soni chegaralangan!!")
 
+
+print("group 2 nima gap !!")
+
+
 """
 git config --global user.name "dilshodev-py"
 git config --global user.email "absaitovdev@gmail.com"
