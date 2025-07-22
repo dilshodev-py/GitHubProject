@@ -14,6 +14,9 @@ print('Abdumalik Yul...')
 
 print("Islombek Hoshimov")
 
+# Pycharm + GitHub
+#
+
 """
 git config --global user.name "dilshodev-py"
 git config --global user.email "absaitovdev@gmail.com"
@@ -27,3 +30,5 @@ git branch -M master
 git remote add origin https://github.com/dilshodev-py/GitHubProject.git
 git push -u origin main
 """
+
+print("Bekmirzayev Muhammadamin")
